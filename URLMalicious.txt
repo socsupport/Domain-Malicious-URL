@@ -1,4 +1,5 @@
 telemetryloop.net
+google.com.onion
 siege-close.com
 byte-buff.com
 coffeecincup.monster
