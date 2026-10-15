@@ -1,3 +1,10 @@
+http://23.240.77.233:8085/pM.js
+http://47.18.167.159:8085/pM.js
+http://23.240.77.233:8084/directory
+http://23.240.77.233:8084/acme/new-acct
+http://23.240.77.233:8084/acme/order/11111
+http://23.240.77.233:8084/acme/authz/1
+http://23.240.77.233:8084/acme/finalize/61924744/774083503
 41.216.182.164/index.php
 qlolabybri.com
 entry-verifed-cdn.codes
